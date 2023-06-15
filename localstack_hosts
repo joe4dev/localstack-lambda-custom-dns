@@ -1,0 +1,6 @@
+# TODO: Update to LocalStack IP
+192.168.160.2       lambda.us-east-1.amazonaws.com
+# Examples for illustration
+192.168.16.77       amazonaws.com
+192.168.16.77       aws.amazon.com
+192.168.16.77       invalid.com
