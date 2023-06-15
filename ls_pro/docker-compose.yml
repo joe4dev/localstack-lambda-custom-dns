@@ -17,6 +17,7 @@ services:
       # Using host as Lambda DNS via Docker gateway (i.e., host.docker.internal)
       # - LAMBDA_DOCKER_DNS=192.168.65.254
       # Using LocalStack as Lambda DNS
+      # TODO: Update LocalStack IP
       # - LAMBDA_DOCKER_DNS=192.168.160.2
       # Using host as fallback DNS server via Docker gateway (i.e., host.docker.internal)
       # - DNS_SERVER=192.168.65.254
